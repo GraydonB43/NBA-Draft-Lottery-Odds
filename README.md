@@ -1,5 +1,5 @@
 # NBA-Draft-Lottery-Odds-Project
-The new hpothetical structure used to obtain the probability of each lottery team receiving each pick was:
+The new hypothetical structure used to obtain the probability of each lottery team receiving each pick was:
 The top five picks are decided by the lottery and
 the lottery is expanded from 14 teams to 16 teams (lottery now includes two playoff teams in addition to the 14 non-playoff teams).
 
