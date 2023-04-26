@@ -3,8 +3,8 @@ The new hpothetical structure used to obtain the probability of each lottery tea
 The top five picks are decided by the lottery and
 the lottery is expanded from 14 teams to 16 teams (lottery now includes two playoff teams in addition to the 14 non-playoff teams).
 
-Draft Probability table.xlsx presents the distribution of chances out of 1000 that each seed has of obtaining the #1 overall pick under the old, new and hypothetical 
-lottery structures as well as the draft probability table containing the computed probabilties contained in NBA Draft Probabilities code.
+Distribution of Chances Table = distribution of chances out of 1000 that each seed has of obtaining the #1 overall pick under the old, new and hypothetical 
+lottery structures
 
 NBA Draft Probabilities code = code used to obtain the probability that each seed recieves each pick
 
