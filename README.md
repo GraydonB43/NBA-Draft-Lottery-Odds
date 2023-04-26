@@ -8,4 +8,4 @@ lottery structures
 
 NBA Draft Probabilities code = code used to obtain the probability that each seed recieves each pick
 
-Draft Probability Table.csv = complete probability table containing each team's odds of getting each pick given this hypothetical lottery system
+Draft Probability Table = complete probability table containing each team's odds of getting each pick given this hypothetical lottery system
